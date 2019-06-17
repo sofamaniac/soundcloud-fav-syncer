@@ -6,7 +6,7 @@ import csv
 import requests
 import shutil
 
-id = "KJMNWGMczDAEDm2ezWCbt5kCYZzcr92P"
+id = "YOUR_ID_HERE"
 users_number = "130256332"
 
 file_destination = "D:\\Users\\Sofa\\Desktop\\musiques\\soundcloud\\"
