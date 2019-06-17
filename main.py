@@ -9,7 +9,7 @@ import shutil
 id = "YOUR_ID_HERE"
 users_number = "130256332"
 
-file_destination = "D:\\Users\\Sofa\\Desktop\\musiques\\soundcloud\\"
+file_destination = "FINAL_LOCATION_OF_DL_FILES"
 
 client = soundcloud.Client(client_id=id, redirect_uri='http://soundcloud.com/callback')
 
